@@ -1,0 +1,1 @@
+No final do script, adicone o noscript, para caso a pessoa esteja com o js desativado, alerta-la que não vai funcionar o JS
