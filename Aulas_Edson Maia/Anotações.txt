@@ -2,6 +2,7 @@
 3 jeitos de exibir uma mensagem
 console.logo (console) // document.write (no document) // alert (janela pop-up)
 
+
 Por boas práticas no html, deixar o script no final documento
 Sempre bom linkar para outra aba. Evitar fazer na pg do HTML
 Para comentar: uma linha: //     um trecho: /* */
@@ -9,3 +10,9 @@ Para comentar: uma linha: //     um trecho: /* */
 
 # Sintaxe, variáveis e constantes
 para as variáveis, evitar usar o var e sim o let
+como escrever a variável
+camelCase
+snake_case
+
+Para criar const, colocar o nome em maiúsculas
+para usar o template string usar aspas do lado do p+shift
