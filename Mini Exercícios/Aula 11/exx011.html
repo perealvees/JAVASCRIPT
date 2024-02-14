@@ -12,14 +12,17 @@
     <div id="res"></div>
 
     <script>
-        var origem = window.document.getElementById('pais')
+        function consultar(){
+        var origem = window.document.getElementById('pais').value
         var res = window.document.getElementById('res')
         res.innerHTML = `<p>Sua nacionalidade é ${origem}</p>`
 
-        if (res == 'Brasil'){
+        if (origem == 'Brasil'){
             res.innerHTML += 'Você é brasileiro!'
         } else {
             res.innerHTML += 'Você é estrangeiro!'
+        }
+            
         }
 
     </script>
