@@ -5,7 +5,11 @@ while (fatia <= 10) {
     fatia ++
 } */
 
-var fatia = 1
+/* var fatia = 1
 do {
     console.log(`Você comeu a fatia ${fatia}`)
-} while (fatia <= 40)
+} while (fatia <= 40) */
+
+for (var c = 1; c <= 3; c++) {
+    console.log(c)
+}
