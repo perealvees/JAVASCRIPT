@@ -10,6 +10,8 @@ do {
     console.log(`Você comeu a fatia ${fatia}`)
 } while (fatia <= 40) */
 
-for (var c = 1; c <= 3; c++) {
+for (var c = 1; c <= 10; c++) {
     console.log(c)
 }
+
+console.log('Fim ... ')
