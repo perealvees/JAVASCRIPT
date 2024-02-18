@@ -1,0 +1,34 @@
+body{
+
+    background-color: rgb(245, 232, 117);
+}
+
+header{
+    text-align: center;
+}
+
+
+section{
+    text-align: center;
+    background-color: rgb(238, 221, 221);
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 3px rgba(95, 92, 92, 0.295);
+    border-radius: 10px;
+    
+}
+
+footer{
+    padding: 10px;
+    text-align: center;
+}
+
+
+#fotocentro{
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    width: 400px;
+}
